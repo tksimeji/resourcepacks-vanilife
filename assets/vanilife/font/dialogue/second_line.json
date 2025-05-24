@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "ttf",
-      "file": "vanilife:ttf/unifont.ttf",
+      "file": "vanilife:unifont.ttf",
       "oversample": 4,
       "shift": [
         -56,

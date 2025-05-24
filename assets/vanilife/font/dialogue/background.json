@@ -1,0 +1,58 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "ascent": 7,
+      "chars": [
+        ""
+      ],
+      "file": "vanilife:gui/dialogue/dialogue.png",
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "ascent": 7,
+      "chars": [
+        ""
+      ],
+      "file": "vanilife:gui/dialogue/anonymous.png",
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "ascent": 7,
+      "chars": [
+        ""
+      ],
+      "file": "vanilife:gui/dialogue/creaking.png",
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "ascent": 7,
+      "chars": [
+        ""
+      ],
+      "file": "vanilife:gui/dialogue/enderman.png",
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "ascent": 7,
+      "chars": [
+        ""
+      ],
+      "file": "vanilife:gui/dialogue/piggle.png",
+      "height": 8
+    },
+    {
+      "type": "bitmap",
+      "ascent": 7,
+      "chars": [
+        ""
+      ],
+      "file": "vanilife:gui/dialogue/tksimeji.png",
+      "height": 8
+    }
+  ]
+}

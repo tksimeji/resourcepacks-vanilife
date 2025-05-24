@@ -1,0 +1,21 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "vanilife:ttf/unifont.ttf",
+      "oversample": 4,
+      "shift": [
+        72,
+        32
+      ],
+      "size": 4
+    },
+    {
+      "type": "space",
+      "advances": {
+        "": 2,
+        "": 4
+      }
+    }
+  ]
+}

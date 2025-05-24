@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:bamboo_shoot"
+    "layer0": "vanilife:item/bamboo_shoot"
   }
 }

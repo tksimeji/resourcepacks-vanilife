@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:pacific_saury"
+    "layer0": "vanilife:item/pacific_saury"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:sweet_potato"
+    "layer0": "vanilife:item/sweet_potato"
   }
 }

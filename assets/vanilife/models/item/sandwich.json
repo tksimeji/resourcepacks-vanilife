@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:sandwich"
+    "layer0": "vanilife:item/sandwich"
   }
 }

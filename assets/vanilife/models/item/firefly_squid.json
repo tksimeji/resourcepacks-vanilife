@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:firefly_squid"
+    "layer0": "vanilife:item/firefly_squid"
   }
 }

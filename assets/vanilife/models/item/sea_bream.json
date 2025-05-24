@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:sea_bream"
+    "layer0": "vanilife:item/sea_bream"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:horse_mackerel"
+    "layer0": "vanilife:item/horse_mackerel"
   }
 }

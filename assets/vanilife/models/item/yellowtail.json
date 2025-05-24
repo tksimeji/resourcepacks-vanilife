@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:yellowtail"
+    "layer0": "vanilife:item/yellowtail"
   }
 }

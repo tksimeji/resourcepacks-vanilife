@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:apple_jam"
+    "layer0": "vanilife:item/apple_jam"
   }
 }

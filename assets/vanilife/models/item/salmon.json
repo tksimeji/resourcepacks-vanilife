@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:salmon"
+    "layer0": "vanilife:item/salmon"
   }
 }

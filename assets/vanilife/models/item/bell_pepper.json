@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:bell_pepper"
+    "layer0": "vanilife:item/bell_pepper"
   }
 }

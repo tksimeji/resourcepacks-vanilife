@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:sliced_tomato"
+    "layer0": "vanilife:item/sliced_tomato"
   }
 }

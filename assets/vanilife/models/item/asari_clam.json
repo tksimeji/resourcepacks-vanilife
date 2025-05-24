@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:asari_clam"
+    "layer0": "vanilife:item/asari_clam"
   }
 }

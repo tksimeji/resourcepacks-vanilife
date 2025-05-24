@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "vanilife:conger_eel"
+    "layer0": "vanilife:item/conger_eel"
   }
 }
